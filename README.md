@@ -6,7 +6,7 @@ This cheatsheet is created for those who want to study web development. It is fu
 
 **Please follow the license.**
 
->[!DANGER]
+>[!NOTE]
 >The tutorial is not finished yet. All contents are planned to be finished in 31 May, 2025.
 
 You can donate me with TipMe: [here]()
