@@ -6,6 +6,9 @@ This cheatsheet is created for those who want to study web development. It is fu
 
 **Please follow the license.**
 
+>[!DANGER]
+>The tutorial is not finished yet. All contents are planned to be finished in 31 May, 2025.
+
 You can donate me with TipMe: [here]()
 
 ## Content
@@ -13,45 +16,50 @@ You can donate me with TipMe: [here]()
 >[!NOTE]
 > `*` means very important!
 
-### Basic Front-End
-1. *[HTML](./01-BasicFrontEnd/lecture/01-basic-HTML.md)
-2. *[CSS](./01-BasicFrontEnd/lecture/02-basic-CSS.md)
-3. *[JavaScript Document Manipulation](./01-BasicFrontEnd/lecture/03-JSDOM.md)
-4. *[Web Design & Graphic Design Theory](./01-BasicFrontEnd/lecture/04-web-design.md)
+### Basic Front-End ![Static Badge](https://img.shields.io/badge/In_Progress-blue)
 
-### Basic Back-End
+1. *[HTML](./01-BasicFrontEnd/lecture/01-basic-HTML.md) ![Static Badge](https://img.shields.io/badge/In_Progress-blue)
+
+
+2. *[CSS](./01-BasicFrontEnd/lecture/02-basic-CSS.md) ![Static Badge](https://img.shields.io/badge/In_Progress-blue)
+
+3. *[JavaScript DOM Manipulation](./01-BasicFrontEnd/lecture/03-JSDOM.md) ![Static Badge](https://img.shields.io/badge/In_Progress-blue)
+
+4. *[Web Design & Graphic Design Theory](./01-BasicFrontEnd/lecture/04-web-design.md) ![Static Badge](https://img.shields.io/badge/In_Progress-blue)
+
+### Basic Back-End (Not started yet)
 5. *[Internet]()
 6. *[Backend Architecture]()
-7. *[Cybersecurity & System Design]()
+7. *[Security & Privacy]()
 8. *[Node.js & Express]()
 9. [Typescript]()
 10. *[SQL Database]()
 11. *[NoSQL Database]()
 12. [Hosting & Deployment]()
 
-### Front-End Library & Framework
+### Front-End Library & Framework (Not started yet)
 13. [React]()
 14. [CSS Framework]()
 15. [Angular.js]()
 16. [Vue.js]()
 
-### Alternative Back-End
+### Alternative Back-End (Not started yet)
 17. [Spring Boot]()
 18. [PHP]()
 19. [ASP.NER CORE]()
 
-### Full Stack Framework
+### Full Stack Framework (Not started yet)
 20. [Next.js]()
 21. [Laravel]()
 22. [Django & Flask]()
 
-### Example Project
+### Example Project (Not started yet)
 23. [Music Player Web Application]() 
 24. [Ecommerce + Banking System]()
 25. [Marketing Website]()
 26. [Social Media Platform]()
 
-### Portfolio Tips
+### Portfolio Tips (Not started yet)
 27. [Online Course that you should learn]()
 28. [Resume]()
 29. [Example of my resume and portfolio]()
