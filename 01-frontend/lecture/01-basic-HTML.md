@@ -1,7 +1,14 @@
 # HTML - HyperText Markup Language
 
-HTML(HyperText Markup Languaye) is used to create the structure of web content.
+## Content
+1. [What is HTML?](#what-is-html)
+2. [HTML Element](#html-element)
+3. [HTML Document](#html-document)
+4. [Essential HTML Element](#essential-html-element)
 
+## What is HTML? 
+
+HTML(HyperText Markup Languaye) is used to create the structure of web content.
 
  ## 3 Basic of Web Content:
 
@@ -11,7 +18,7 @@ HTML(HyperText Markup Languaye) is used to create the structure of web content.
 
 ## HTML element
 
-### <center>Anatomy of an HTML Element</center>
+### Anatomy of an HTML Element
 
 ![HTML Element Structure](./assets/HTML/HTML-Element.jpg)
 
@@ -57,3 +64,4 @@ Example HTML document
 </html>
 ```
 
+## Essential HTML Element 
