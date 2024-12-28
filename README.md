@@ -13,31 +13,35 @@ You can donate me with TipMe: [here]()
 >[!NOTE]
 > `*` means very important!
 
-### Front-End
-1. *[HTML](./01-frontend/lecture/01-basic-HTML.md)
-2. *[CSS](./01-frontend/lecture/02-basic-CSS.md)
-3. *[JavaScript Document Manipulation](./01-frontend/lecture/03-JSDOM.md)
-4. *[Web Design & Graphic Design Theory](./01-frontend/lecture/04-web-design.md)
-5. [React](./01-frontend/lecture/05-React.md)
-6. [CSS Framework](./01-frontend/lecture/06-CSS-Framework.md)
-7. [Angular.js](./01-frontend/lecture/07-Angular.md)
+### Basic Front-End
+1. *[HTML](./01-BasicFrontEnd/lecture/01-basic-HTML.md)
+2. *[CSS](./01-BasicFrontEnd/lecture/02-basic-CSS.md)
+3. *[JavaScript Document Manipulation](./01-BasicFrontEnd/lecture/03-JSDOM.md)
+4. *[Web Design & Graphic Design Theory](./01-BasicFrontEnd/lecture/04-web-design.md)
 
-### Back-End
-8. *[Internet]()
-9. *[Backend Architecture]()
-10. *[Cybersecurity & System Design]()
-11. *[Node.js & Express]()
-12. [Spring Boot]()
-13. [PHP]()
-14. [Typescript]()
-15. *[SQL Database]()
-16. *[NoSQL Database]()
-17. [AWS]()
-18. [Azure]()
+### Basic Back-End
+5. *[Internet]()
+6. *[Backend Architecture]()
+7. *[Cybersecurity & System Design]()
+8. *[Node.js & Express]()
+9. [Typescript]()
+10. *[SQL Database]()
+11. *[NoSQL Database]()
+12. [Hosting & Deployment]()
+
+### Front-End Library & Framework
+13. [React]()
+14. [CSS Framework]()
+15. [Angular.js]()
+16. [Vue.js]()
+
+### Alternative Back-End
+17. [Spring Boot]()
+18. [PHP]()
+19. [ASP.NER CORE]()
 
 ### Full Stack Framework
-19. [Next.js]()
-20. [Vue.js]()
+20. [Next.js]()
 21. [Laravel]()
 22. [Django & Flask]()
 
@@ -52,6 +56,8 @@ You can donate me with TipMe: [here]()
 28. [Resume]()
 29. [Example of my resume and portfolio]()
 30. [Git]()
+
+## Up Next
 
 ## Credit
 
