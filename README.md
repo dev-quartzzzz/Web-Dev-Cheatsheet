@@ -2,7 +2,7 @@
 All web development concept + design technique
 
 ## From Writer
-This cheatsheet is created for those who wants to study web development. Full of summary notes and essential knowledge that you need to know are here, created by myself using all of time to study and update as recent as I can. I hope that this cheatsheet can help you to succeed your study. 
+This cheatsheet is created for those who want to study web development. It is full of summary notes and essential knowledge that you need to know. I created it using all my time to study and updated it as recently as I could. I hope that this sheet can help you succeed in your studies. 
 
 **Please follow the license.**
 
@@ -19,7 +19,7 @@ You can donate me with TipMe: [here]()
 3. *[JavaScript Document Manipulation]()
 4. *[Web Design & Graphic Design Theory]()
 5. [React]()
-6. [tailwind.css]()
+6. [CSS Framework]()
 7. [Angular.js]()
 
 ### Back-End
@@ -51,6 +51,7 @@ You can donate me with TipMe: [here]()
 27. [Online Course that you should learn]()
 28. [Resume]()
 29. [Example of my resume and portfolio]()
+30. [Git]()
 
 ## Credit
 
